@@ -13,7 +13,7 @@ The **Flight Management System** is a monolithic Spring Boot application designe
 It allows **users** to search, book, and cancel flights, with booking details delivered directly via email. Cancellations include refund handling, ensuring a smooth experience.  
 On the **admin side**, the system provides complete control over flight management, including adding, updating, deleting, and changing flight status.  
 With **Spring Security & JWT-based authentication**, the application ensures secure access. The project also implements **global exception handling, logging, pagination, and sorting** for robustness and scalability.  
-This project demonstrates real-world airline reservation workflows with clean architecture and modular services, making it an excellent showcase for backend development.  
+This project demonstrates real-world airline reservation workflows with clean architecture and modular services, making it an excellent showcase for backend development. 
 
 ---
 
